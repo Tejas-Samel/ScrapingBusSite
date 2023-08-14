@@ -102,5 +102,3 @@ This project is a web scraping and data visualization application that extracts 
 
  ![Basic Data search](image02.jpg)
 ---
-
-*Disclaimer: This README file is a template and should be customized according to your project's details and requirements.*
